@@ -8,6 +8,7 @@ Model was compiled with Adam optimizer and categorical_crossentropy for loss cal
 
 In second file I have build a CNN model for prediction of MNIST dataset.
 Below is the architecture used to build CNN model.
-![Model Architecture](CNN Model Architecture.jpg)
+![Model Architecture](CNNModelArchitecture.jpg)
+
 
 
