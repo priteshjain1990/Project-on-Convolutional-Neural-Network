@@ -1,8 +1,8 @@
 # Project-on-Convolutional-Neural-Network
 This project consists of 2 ipynb files. 
 
-In first file, a simple deep Netral network is build to predict the MNIST dataset.
-In this we have 2 hidden layers with 512 nourons having relu as activation function each.
+In first file, a simple deep Neural network is build to predict the MNIST dataset.
+In this we have 2 hidden layers with 512 neurons having relu as activation function each.
 An o/p layer with 10 neurons (for each class of numbers from 0 to 9) with softmax activation function.
 Model was compiled with Adam optimizer and categorical_crossentropy for loss calc. The model gave an accuracy of 97.8%.
 
